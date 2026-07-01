@@ -11,3 +11,7 @@ ele será modificado nas duas branches
 e após essa modificação
 ele vai apresentar
 erro de conflito.
+## Linguagem C
+
+A linguagem C é uma 
+Ótima linguagem para iniciarmos na programação!
